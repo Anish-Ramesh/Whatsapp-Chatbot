@@ -1,0 +1,20 @@
+{
+  "entry": [
+    {
+      "changes": [
+        {
+          "value": {
+            "messages": [
+              {
+                "from": "1234567890",
+                "text": {
+                  "body": "catalog"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
